@@ -37,10 +37,3 @@ My favorite part of the movie is the *final battle* between the Jaegers and the 
 | Runtime      | 131 minutes                                       |
 
 ---
-
----
-
-### Footnote
-Here's a fun fact about *Pacific Rim*: It has inspired a sequel, *Pacific Rim: Uprising*, which continues the story of the Jaegers and the Kaiju conflict. [^1]
-
-[^1]: *Pacific Rim: Uprising* was released in 2018, directed by Steven S. DeKnight.
