@@ -1,5 +1,4 @@
-# app-dev
-My first repository
+
 # **Pacific Rim: My Favorite Movie**
 
 *Pacific Rim* is a 2013 science fiction film directed by Guillermo del Toro. It's an epic tale of humanity's fight against massive, monstrous creatures called Kaiju, who emerge from a breach in the ocean. To combat these creatures, humanity builds giant robots known as Jaegers, which are piloted by two people in a neural connection.
@@ -25,7 +24,8 @@ My favorite part of the movie is the *final battle* between the Jaegers and the 
 > "The world is big, but there are bigger things than the world."  
 > — *Raleigh Becket*
 
-![Pacific Rim Poster](https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Pacific_Rim_poster.jpg/220px-Pacific_Rim_poster.jpg)
+![Pacific Rim Poster](https://upload.wikimedia.org/wikipedia/en/c/c7/Pacific_Rim_poster.jpg)
+
 
 ## **Key Details**
 
@@ -37,12 +37,6 @@ My favorite part of the movie is the *final battle* between the Jaegers and the 
 | Runtime      | 131 minutes                                       |
 
 ---
-
-### **Interesting Facts**
-- The Kaiju were designed to appear like a mix of dinosaurs and other monstrous creatures.
-- The Jaeger robots were inspired by classic Japanese mecha designs.
-
-- [Pacific Rim Official Website](https://www.legendary.com/)
 
 ---
 
