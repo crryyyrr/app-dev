@@ -27,8 +27,6 @@ My favorite part of the movie is the *final battle* between the Jaegers and the 
 
 ![Pacific Rim Poster](https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Pacific_Rim_poster.jpg/220px-Pacific_Rim_poster.jpg)
 
----
-
 ## **Key Details**
 
 | Element       | Description                                        |
