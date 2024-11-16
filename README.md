@@ -8,4 +8,5 @@
 ### Favorite Part
 My favorite part of the movie is the final battle scene between Gypsy Danger and the Kaiju, where the Jaeger uses an oil rig as a weapon. The entire sequence is intense, and it perfectly encapsulates the spirit of human ingenuity and perseverance.
 
-![Pacific Rim Movie Poster](https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Pacific_Rim_%282013%29_theatrical_poster.jpg/220px-Pacific_Rim_%282013%29_theatrical_poster.jpg)
+![image](https://github.com/user-attachments/assets/d59b4366-8a63-47dc-9606-9853d034311c)
+
